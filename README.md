@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prachaya
+- 👋 Hi, I’m Prachaya,por
 - 👀 I’m interested in AI,IoT,Web Dev,Software
 - 🏫 I'm graduate High school from Samut Prakan School
 - ------------------------------Now----------------------------------
