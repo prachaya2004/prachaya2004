@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @prachaya2004
-- 👀 I’m interested in SCI-COM
-- 🌱 I’m currently learning HIGH SCHOOL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in IT,SCI-COM
+- 📘 I'm University student at Thai-Nichi Institute of Technology
+- 
 
 <!---
 prachaya2004/prachaya2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
