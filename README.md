@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI,IoT,Web Dev,Software
 - 🏫 I'm graduate High school from Samut Prakan School
 - ------------------------------Now----------------------------------
-- 👨‍🎓 I'm University student at Thai-Nichi Institute of Technology
+- 👨‍🎓 I'm a University student at Thai-Nichi Institute of Technology
 - 📗 Major:Information Teachnology (IT)
 
 <!---
